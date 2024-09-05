@@ -15,10 +15,11 @@ body {
   position: relative;
   height: 100%;
 }
-/* .card-parent{
+.card-parent{
   width: 100vh;
-  height: auto;
-} */
+  height: 500px;
+  border: 1px solid black;
+}
 
 .main{
   height: 100vh;
